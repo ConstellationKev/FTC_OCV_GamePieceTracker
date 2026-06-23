@@ -1,4 +1,4 @@
-# Limelight CV Master Vault
+# FTC_OCV_GamePieceTracker
 
 Color detection and tracking algorithm using OpenCV adapted for java for FTC game pieces. Using HSV and contour filtering for precise detection.
 
