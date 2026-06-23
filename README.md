@@ -1,3 +1,12 @@
+# Limelight CV Master Vault
+
+Color detection and tracking algorithm using OpenCV adapted for java for FTC game pieces. Using HSV and contour filtering for precise detection.
+
+# Overview
+
+The code for the detection is in the TeamCode folder and you need to go through it for a bit but it is there.
+
+
 ## NOTICE
 
 This repository contains the public FTC SDK for the INTO THE DEEP (2024-2025) competition season.
